@@ -11,7 +11,7 @@ availableValues:
 conditions:
   - group:
       name: betaUsers
-    value: is-primary
+    value: is-white
   - group:
       operator: and
       name: isLoggedInUser
