@@ -1,6 +1,0 @@
-# This file was edited by rollout.io
-# URL: https://app.rollout.io/ex/5d5c694a2385ac15e39c0d39
-type: experiment
-name: score
-flag: default.score
-value: true
