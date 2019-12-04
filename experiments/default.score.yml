@@ -6,4 +6,4 @@ flag: default.score
 conditions:
   - group:
       name: betaUsers
-value: false
+value: true
