@@ -5,6 +5,6 @@ name: score
 flag: default.score
 conditions:
   - group:
-      name: isLoggedInUser
+      name: betaUsers
     value: true
 value: false
