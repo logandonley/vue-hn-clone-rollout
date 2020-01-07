@@ -2,7 +2,6 @@
 # URL: https://app.rollout.io/ex/5e14da6c8ff5c10c965c1d74
 type: experiment
 name: score
-enabled: false
 flag: default.score
 conditions:
   - group:
