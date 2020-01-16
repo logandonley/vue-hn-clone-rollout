@@ -1,0 +1,10 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5e207fb3f0c32515d42fe0ce
+type: experiment
+name: score
+flag: default.score
+conditions:
+  - group:
+      name: betaUsers
+    value: true
+value: false
