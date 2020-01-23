@@ -9,4 +9,5 @@ conditions:
       operator: in-array
       operand:
         - generic co
+    value: true
 value: false
