@@ -3,4 +3,10 @@
 type: experiment
 name: show
 flag: default.show
+conditions:
+  - property:
+      name: company
+      operator: in-array
+      operand:
+        - generic co
 value: false
