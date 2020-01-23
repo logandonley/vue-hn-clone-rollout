@@ -6,4 +6,5 @@ flag: default.show
 conditions:
   - group:
       name: showCompany
+    value: true
 value: false
