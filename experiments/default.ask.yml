@@ -9,4 +9,5 @@ conditions:
       operator: in-array
       operand:
         - acme global
+    value: true
 value: false
