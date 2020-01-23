@@ -3,4 +3,7 @@
 type: experiment
 name: show
 flag: default.show
+conditions:
+  - group:
+      name: targetCompany
 value: false
