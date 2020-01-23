@@ -1,8 +1,0 @@
-type: target-group
-name: show permissions
-conditions:
-  - operator: in-array
-    property: company
-    operand:
-      - acme global
-      - cloudbees
