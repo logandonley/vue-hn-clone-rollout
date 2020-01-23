@@ -1,0 +1,13 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5e29bcb7ec64b94a87785bbd
+type: experiment
+name: show
+flag: default.show
+conditions:
+  - property:
+      name: company
+      operator: in-array
+      operand:
+        - generic co
+    value: true
+value: false
