@@ -3,4 +3,10 @@
 type: experiment
 name: ask
 flag: default.ask
+conditions:
+  - property:
+      name: company
+      operator: in-array
+      operand:
+        - acme global
 value: false
