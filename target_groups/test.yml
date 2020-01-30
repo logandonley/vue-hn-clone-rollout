@@ -3,7 +3,7 @@ name: test
 conditions:
   - operator: lte
     property: rox.screen_width
-    operand: 600
+    operand: '1000'
   - operator: lte
     property: rox.screen_height
-    operand: 800
+    operand: '1000'
