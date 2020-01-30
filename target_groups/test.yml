@@ -1,6 +1,5 @@
 type: target-group
 name: test
 conditions:
-  - operator: gte
-    property: rox.screen_height
-    operand: 600
+  - operator: lte
+    property: test
