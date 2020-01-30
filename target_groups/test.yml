@@ -3,3 +3,4 @@ name: test
 conditions:
   - operator: lte
     property: test
+    operand: 600
