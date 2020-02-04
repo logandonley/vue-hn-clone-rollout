@@ -6,4 +6,5 @@ flag: default.score
 conditions:
   - group:
       name: isLoggedInUser
+    value: true
 value: false
