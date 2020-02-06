@@ -6,5 +6,5 @@ flag: default.ask
 conditions:
   - group:
       name: ask page permissions
-    value: false
+    value: true
 value: false
