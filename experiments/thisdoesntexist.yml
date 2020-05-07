@@ -1,0 +1,9 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5eb47d51c1b5acb2bef10501
+type: experiment
+name: experiment for flag thisdoesntexist
+description: >-
+  Created automatically by EC-Rollout-1.0.0.2020042101
+  http://flow-server/commander/link/jobDetails/8e8adf58-90a9-11ea-9bbc-4aa6231ab570
+flag: thisdoesntexist
+value: true
